@@ -17,38 +17,54 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="58%">
 
-```java
-public class HariHaraNandan {
+### Hey there! I'm Hari 👋
 
-    private final String name       = "Hari Hara Nandan";
-    private final String location   = "Andhra Pradesh, India";
-    private final String degree     = "B.Tech CS & Data Science @ GPREC (2023–2027)";
-    private final double gpa        = 8.7;
+> *"I don't just write code — I architect solutions that scale."*
 
-    private final String[] stack = {
-        "Java", "Spring Boot", "Spring Data JPA",
-        "Hibernate", "REST APIs", "MySQL", "Maven"
-    };
+I'm a passionate **Java Backend Developer** from Andhra Pradesh, India, currently pursuing my B.Tech in Computer Science & Data Science. I love turning complex problems into clean, efficient backend systems.
 
-    private final String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Docker & Containerisation",
-        "JUnit 5 & Mockito",
-        "System Design Fundamentals"
-    };
+<br/>
 
-    private final String funFact =
-        "Won 1st Place at a National-Level Hackathon 🏆";
+🎓 &nbsp; **G Pulla Reddy Engineering College** &nbsp;·&nbsp; 2023 – 2027 &nbsp;·&nbsp; GPA **8.7 / 10**
+<br/>
+📍 &nbsp; **Andhra Pradesh, India**
+<br/>
+💼 &nbsp; Open to **Software Engineering Internships** in Java Backend
+<br/>
+🏆 &nbsp; **National Hackathon Champion** — Ripple 2k26 (1st Place)
 
-    public String motto() {
-        return "Ship clean code. Build real things. Keep learning.";
-    }
-}
-```
+<br/>
 
-<br clear="right"/>
+**What I'm working with:**
+
+`Java` &nbsp; `Spring Boot` &nbsp; `Hibernate` &nbsp; `REST APIs` &nbsp; `MySQL` &nbsp; `Maven`
+
+**What I'm levelling up in:**
+
+`Microservices` &nbsp; `Docker` &nbsp; `JUnit 5` &nbsp; `System Design` &nbsp; `AWS`
+
+<br/>
+
+📬 &nbsp; **vedavyas2410@gmail.com** &nbsp;·&nbsp; [Portfolio ↗](https://hari-portfolio-dusky.vercel.app/)
+
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:12px;" alt="coding gif"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Focus-Backend%20Development-70a5fd?style=flat-square)
+![](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Status-Open%20to%20Internships-38bdae?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
